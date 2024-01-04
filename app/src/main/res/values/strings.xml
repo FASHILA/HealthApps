@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">HealthApps</string>
+    <string name="todo">TODO</string>
+    <string name="create_naccount">Create \nAccount</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_your_password_recovery_it">Try to Login</string>
+    <string name="Chat">CHAT</string>
+    <string name="chat">Chat</string>
+    <string name="david_ackerman">David Ackerman</string>
+    <string name="hello">Hello</string>
+    <string name="welcome_nback">Welcome\nBack</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Facebook">FaceBook</string>
+    <string name="are_you_new_user_register">Are you new user? Register</string>
+    <string name="google">Google</string>
+
+
+    <string-array name="data_name">
+        <item>Dr. Ni Nyoman Ayu Susilawati Sp.S</item>
+        <item>Dr. Widya Sarkawi Sp.N</item>
+        <item>Dr. Bertharia Nainggolan</item>
+        <item>Dr. Helmi Agung Prasetyo Sp.JP, FIHA</item>
+        <item>Widuri Nur Anggraieni M.Psi, Psikolog</item>
+
+        <item>Dr. Made Agustya Darma Putra Wesnawa Sp.P</item>
+        <item>Dr. Marihot Pasaribu Sp.OG(K)-Onk</item>
+        <item>Dr. Dechrist Yohanes Eddy Wibowo Sp.M</item>
+        <item>Drg. Marvrits Kanter
+</item>
+
+        <item>Dr. Stefani Wylna Widjojo Sp.KFR</item>
+    </string-array>
+
+    <string-array name="data_title">
+        <item>Abses Paru</item>
+        <item>Achondroplasia</item>
+        <item>ADHD</item>
+        <item>Mallet Finger</item>
+        <item>Alergi</item>
+
+    </string-array>
+
+
+    <string-array name="data_descriptionedu">
+
+     <item>Abses paru adalah dan pembentukan kavitas (lubang) pada jaringan paru yang berukuran lebih dari 2 sentimeter. Lubang ini berisi kumpulan jaringan paru yang mati (nekrosis) akibat infeksi bakteri. Kondisi ini merupakan bagian dari infeksi paru.
+
+Menurut waktu terjadinya, abses paru dapat terbagi menjadi dua jenis, yakni abses paru akut dan kronis. Abses paru akut terjadi kurang dari 6 minggu dan abses paru dikatakan kronis apabila terjadi lebih dari 6 minggu.</item>
+
+        <item>Achondroplasia merupakan masalah pada pertumbuhan tulang yang ditandai dengan tubuh tidak proporsional dan kerdil.
+
+Kondisi tersebut adalah salah satu masalah pertumbuhan tulang yang sering terjadi. Pengidap gangguan kesehatan ini akan memiliki ukuran tulang dada yang terbilang normal.
+
+Akan tetapi, ukuran tungkai dan lengannya cenderung lebih pendek, sehingga mengakibatkan pengidapnya memiliki tubuh yang kerdil atau dwarfisme. Tinggi tubuh pengidap achondroplasia untuk laki-laki dewasa rata-rata sekitar 131 sentimeter. </item>
+
+        <item>Attention Deficit Hyperactivity Disorder atau ADHD adalah istilah medis untuk gangguan mental berupa perilaku impulsif dan hiperaktif. Gejala ADHD membuat anak-anak kesulitan untuk memusatkan perhatian pada satu hal dalam satu waktu.
+
+Meski lebih rentan terjadi pada anak, gejala yang muncul bisa bertahan hingga usia remaja bahkan dewasa. ADHD terbagi menjadi 3 subtipe, yaitu:
+
+Dominan hiperaktif-impulsif. Tipe ini biasanya muncul dengan masalah hiperaktivitas bersamaan dengan perilaku impulsif.
+Dominan inatentif. Tipe ini memiliki ciri sulit untuk menaruh perhatian penuh pada satu hal dalam satu waktu. Anak-anak dengan kondisi ini cenderung tidak bisa memperhatikan dengan baik.
+Kombinasi hiperaktif-impulsif dan inatentif. Jenis ini menunjukkan ciri hiperaktif, impulsif, dan tidak dapat memperhatikan dengan baik.</item>
+
+        <item>Mallet finger adalah kondisi cedera yang terjadi pada bagian tendon jari. Kondisi ini membuat ujung jari tidak dapat diluruskan karena tendon yang menghubungkan otot dengan tulang jari mengalami peregangan atau robek.
+
+Mallet finger menjadi kondisi yang kerap dialami oleh para atlet yang berolahraga menggunakan tangan. Namun, mallet finger juga bisa dialami ketika jari tangan terjepit.</item>
+
+        <item>Alergi merupakan suatu reaksi dari sistem imun tubuh yang terjadi karena suatu zat atau substansi yang disebut alergen. Zat tersebut dianggap berbahaya oleh tubuh, meski sebenarnya tidak. Inilah yang kemudian mengakibatkan munculnya gejala.
+
+Ketika sistem imun bereaksi, efek samping yang bisa terjadi berupa reaksi alergi. Beberapa penyebab alergi dapat berasal dari makanan tertentu, obat-obatan, serbuk sari, gigitan serangga atau tungau, dan lainnya.
+
+Alergi terjadi ketika seseorang mengalami paparan dari alergen yang dianggap berbahaya oleh tubuh, sehingga tubuh pun memproduksi antibodi. Setiap kali tubuh terpapar oleh alergen yang sama, produksi antibodi dapat meningkat, sehingga memicu keluarnya histamin yang mengakibatkan munculnya gejala alergi.</item>
+    </string-array>
+
+    <string-array name="data_photoedu">
+        <item>https://rs.uns.ac.id/wp-content/uploads/2016/08/Penyebab-Penyakit-Paru-Paru-Basah-Pneumonia.jpg</item>
+        <item>https://s3-id-jkt-1.kilatstorage.id/anakku/media/gallery/KA-JINJIT.jpg</item>
+        <item>https://res.cloudinary.com/dk0z4ums3/image/upload/v1684115328/attached_image/penyakit/kesehatan-anak/adhd/epidemiologi.jpg</item>
+        <item>https://tanyacoats.co.za/wp-content/uploads/2019/05/mallet-finger-ft-1200x900.jpg</item>
+        <item>https://cdn.antaranews.com/cache/1200x800/2023/05/11/photo_2023-05-11_12-52-40.jpg</item>
+    </string-array>
+
+    <string-array name="data_description">
+
+        <item>Dr. Ni Nyoman Ayu Susilawati Sp.S adalah seorang spesialis saraf yang menyelesaikan pendidikan dokter spesialisnya di Universitas Udayana pada tahun 2016, setelah sebelumnya meraih gelar sarjana kedokteran pada tahun 2000 di universitas yang sama. Saat ini, beliau berpraktik di Kabupaten Lombok Barat, Nusa Tenggara Barat, dengan kantor praktek tambahan di Ampenan, Mataram. Dengan latar belakang pendidikan yang komprehensif, Dr. Ni Nyoman Ayu Susilawati mungkin menyediakan pelayanan dan perawatan spesialis saraf untuk pasien-pasien di wilayah tersebut.
+</item>
+
+        <item>Dr. Widya Sarkawi Sp.N merupakan seorang spesialis saraf yang telah menyelesaikan pendidikan dokter spesialisnya di Universitas Indonesia pada tahun 2001, setelah sebelumnya memperoleh gelar sarjana kedokteran dari universitas yang sama pada tahun 1986. Saat ini, beliau berpraktik di Jakarta Selatan, DKI Jakarta, memberikan pelayanan dan perawatan khusus di bidang saraf. Dengan pengalaman dan pengetahuan yang diperoleh selama bertahun-tahun, Dr. Widya Sarkawi mungkin menjadi sumber daya berharga dalam penanganan berbagai kondisi neurologis bagi pasien-pasien di wilayah tersebut.
+</item>
+
+        <item>Dr. Bertharia Nainggolan adalah seorang dokter umum yang menyelesaikan pendidikan dokternya di Universitas Methodist Indonesia pada tahun 2007. Saat ini, beliau berpraktik di Kabupaten Samosir, Sumatera Utara, memberikan pelayanan kesehatan umum kepada masyarakat di wilayah tersebut. Dengan latar belakang pendidikan di bidang kedokteran, Dr. Bertharia Nainggolan mungkin memiliki keahlian dan pengetahuan yang luas dalam diagnosis dan pengobatan berbagai masalah kesehatan umum, sehingga dapat berperan penting dalam memberikan perawatan yang holistik kepada pasien-pasien di Kabupaten Samosir.
+</item>
+        <item>Dr. Helmi Agung Prasetyo Sp.JP, FIHA, adalah seorang spesialis jantung dan pembuluh darah yang telah menyelesaikan pendidikan dokter spesialisnya di Universitas Padjadjaran pada tahun 2012, setelah sebelumnya meraih gelar sarjana kedokteran pada tahun 2011 di universitas yang sama. Saat ini, beliau menjalankan praktik di Denpasar, Bali, fokus pada pelayanan dan perawatan terkait penyakit jantung dan pembuluh darah. Dengan gelar FIHA (Fellow of the Indonesian Heart Association), Dr. Helmi Agung Prasetyo mungkin membawa pengalaman dan keahlian khusus dalam bidang kardiologi, berkontribusi dalam memberikan perawatan berkualitas tinggi kepada pasien-pasien di wilayah tersebut.
+</item>
+        <item>Widuri Nur Anggraieni M.Psi, Psikolog, adalah seorang psikolog klinis yang telah menyelesaikan pendidikan magister psikologi di Universitas Islam Indonesia pada tahun 2014, setelah sebelumnya meraih gelar sarjana psikologi pada tahun 2008 di universitas yang sama. Saat ini, beliau berpraktik di Jepara, Jawa Tengah, fokus pada pelayanan kesehatan mental dan konseling psikologis. Dengan latar belakang pendidikan dan gelar yang dimilikinya, Widuri Nur Anggraieni mungkin menyediakan dukungan profesional dalam penanganan berbagai masalah psikologis dan kesehatan mental bagi masyarakat di wilayah tersebut.
+</item>
+
+        <item>Dr. Made Agustya Darma Putra Wesnawa Sp.P adalah seorang spesialis paru yang telah menyelesaikan pendidikan dokter spesialisnya di Universitas Udayana pada tahun 2014 dan meraih gelar spesialis paru pada tahun 2021 dari Universitas Airlangga. Saat ini, beliau menjalankan praktik di Badung, Bali, memberikan pelayanan kesehatan dan perawatan khusus di bidang paru-paru. Dengan latar belakang pendidikan ganda di dua universitas ternama di Indonesia, Dr. Made Agustya Darma Putra Wesnawa mungkin memberikan pelayanan paru-paru yang berkualitas tinggi kepada pasien-pasien di wilayah tersebut.
+</item>
+        <item>Dr. Marihot Pasaribu Sp.OG(K)-Onk adalah seorang spesialis kandungan dan kebidanan dengan fokus tambahan pada onkologi ginekologi. Beliau menyelesaikan pendidikan dokter spesialisnya di bidang Kandungan dan Kebidanan di Universitas Gadjah Mada pada tahun 2013. Saat ini, Dr. Marihot Pasaribu berpraktik di Balikpapan, Kalimantan Timur. Dengan keahlian khusus dalam onkologi ginekologi, beliau mungkin memberikan layanan kesehatan yang komprehensif dan spesifik terkait dengan kondisi kesehatan reproduksi dan keganasan pada sistem reproduksi kepada pasien-pasien di wilayah tersebut.
+ </item>
+        <item>Dr. Dechrist Yohanes Eddy Wibowo Sp.M adalah seorang spesialis mata yang telah menyelesaikan pendidikan dokter spesialisnya di Universitas Brawijaya pada tahun 2011 dan meraih gelar spesialis mata pada tahun 2020, juga di universitas yang sama. Saat ini, beliau berpraktik di Malang, Jawa Timur, dengan ketiga lokasi praktiknya di kota tersebut. Dengan latar belakang pendidikan dan praktik ganda di bidang mata, Dr. Dechrist Yohanes Eddy Wibowo mungkin memberikan pelayanan kesehatan mata yang komprehensif dan berkualitas kepada pasien-pasien di Malang.
+</item>
+        <item>Drg. Marvrits Kanter adalah seorang dokter gigi yang menyelesaikan pendidikan di Universitas Sam Ratulangi pada tahun 2018. Saat ini, beliau menjalankan praktik di Manado, Sulawesi Utara, menyediakan layanan kesehatan gigi kepada masyarakat di wilayah tersebut. Dengan latar belakang pendidikan di bidang kedokteran gigi, Drg. Marvrits Kanter mungkin memberikan perawatan gigi dan mulut yang berkualitas serta beragam untuk memenuhi kebutuhan pasien-pasien di Manado.
+</item>
+        <item>Dr. Stefani Wylna Widjojo Sp.KFR adalah seorang spesialis rehabilitasi medik dan kedokteran fisik yang telah menyelesaikan pendidikan di Universitas Kristen Krida Wacana pada tahun 2011 dan meraih gelar spesialisnya di bidang tersebut dari Universitas Sam Ratulangi pada tahun 2019. Saat ini, beliau menjalankan praktik di Bangka, Bangka Belitung, fokus pada rehabilitasi medik untuk membantu pasien dalam memulihkan fungsi fisik mereka. Dengan latar belakang pendidikan dan spesialisasi ini, Dr. Stefani Wylna Widjojo mungkin memberikan layanan rehabilitasi medik yang holistik dan terkini kepada pasien-pasien di wilayah tersebut.
+</item>
+
+    </string-array>
+
+
+    <string-array name="data_photo">
+        <item>https://komparatif.id/wp-content/uploads/2023/05/orang-miskin-dilarang-jadi-dokter.jpg</item>
+        <item>https://asset.kompas.com/crops/rxRWdNuBj-WLZIU7Wz4vqqWZZRE=/0x0:998x665/750x500/data/photo/2022/10/20/6350beaeeafc7.jpg</item>
+        <item>https://asset.kompas.com/crops/rxRWdNuBj-WLZIU7Wz4vqqWZZRE=/0x0:998x665/750x500/data/photo/2022/10/20/6350beaeeafc7.jpg</item>
+        <item>https://www.ekahospital.com/storage/gallery/1684739343-Dokter-Reproduksi-Pria-(1).jpg</item>
+        <item>https://imgx.parapuan.co/crop/0x0:0x0/360x240/photo/2022/10/24/istock-1394644023-1jpg-20221024105557.jpg</item>
+        <item>https://cdn.idntimes.com/content-images/community/2018/05/29402163-1995009010513468-8110705830489227264-n-74afc3a372b5fe2b01265f0bbfe0cef1.jpg</item>
+        <item>https://cloud.jpnn.com/photo/arsip/normal/2023/05/26/nicho-saputra-nugraha-influencer-sekaligus-dokter-ganteng-ya-fbox.jpg</item>
+        <item>https://asset-a.grid.id/crop/0x0:0x0/700x0/photo/2019/03/26/2214801483.jpg</item>
+        <item>https://i.pinimg.com/170x/26/5a/be/265abed82659b4400b8b8bebce763418.jpg</item>
+        <item>https://ramsaysimedarby.co.id/cfind/source/thumb/images/jatinegara/foto-dokter-rspj/cover_w389_h401_dr.-liesa-budiarto.png</item>
+    </string-array>
+</resources>
