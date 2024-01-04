@@ -59,8 +59,8 @@ class RegisterActivity : AppCompatActivity() {
 
                 // Pindah ke halaman login setelah registrasi berhasil
                 // Misalnya, Anda bisa menggunakan Intent untuk berpindah ke halaman Login
-                // val loginIntent = Intent(this@RegisterActivity, LoginActivity::class.java)
-                // startActivity(loginIntent)
+                 val loginIntent = Intent(this@RegisterActivity, LoginActivity::class.java)
+                 startActivity(loginIntent)
             }
         }
     }
